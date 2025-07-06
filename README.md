@@ -21,9 +21,9 @@
   <a href="https://github.com/23bcs11475" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
-  <a href="https://leetcode.com/u/23bcs11475cu/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="40" />
-  </a>
+   <a href="https://www.leetcode.com/pushkarkumarsaini2006" target="blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="48" width="48" />
+    </a>
   <a href="mailto:harshkumar0553@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
   </a>
