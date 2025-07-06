@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Harsh Kumar
 
 🚀 **Frontend Developer** | React.js, JavaScript, Tailwind CSS, ASP.NET MVC  
+👨‍🎓 B.Tech in Computer Science and Engineering (2023-2027)
 📍 Mohali, Punjab, India  
+📄 [![View Resume](https://img.shields.io/badge/View-Resume-green?style=for-the-badge)](./Harsh_Kumar_Resume.pdf)  
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge)](./Harsh_Kumar_Resume.pdf)
 
 ---
 
@@ -9,7 +12,7 @@
 - Passionate Frontend Developer skilled in **React.js, React Hooks, JavaScript, HTML, CSS, and Tailwind CSS**.
 - Strong problem-solving abilities with **90%+ accuracy** in ADSA problem sets (NeoColab).
 - Experienced in building responsive web apps with interactive UI components.
-- Leadership experience as **Liaison Officer** & **Discipline Officer** at Chandigarh University events.
+
 
 ---
 
