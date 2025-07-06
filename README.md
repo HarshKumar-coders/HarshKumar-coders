@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
   <a href="https://leetcode.com/u/23bcs11475cu/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="32" style="margin-bottom:-5px;" />
   </a>
   <a href="mailto:harshkumar0553@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
