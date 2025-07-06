@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
   <a href="https://leetcode.com/u/23bcs11475cu/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" />
   </a>
   <a href="mailto:harshkumar0553@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
@@ -40,11 +40,11 @@
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23bcs11475&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshKumar-coders&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=23bcs11475&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=HarshKumar-coders&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23bcs11475&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshKumar-coders&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
