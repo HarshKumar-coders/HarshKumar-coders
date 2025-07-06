@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Harsh Kumar
 
 🚀 **Frontend Developer** | React.js, JavaScript, Tailwind CSS, ASP.NET MVC  
-👨‍🎓 B.Tech in Computer Science and Engineering (2023-2027)
-📍 Mohali, Punjab, India  
-📄 Resume <a href="https://drive.google.com/file/d/1UghAzYOnOOJK4pU5S7zSnDlow49OwIA3/view?usp=sharing">Pushkar_Kumar_Saini_RESUME</a>
+👨‍🎓 B.Tech in Computer Science and Engineering (2023-2027)  
+📍 Mohali, Punjab, India <br>
+📄 Resume <a href="https://drive.google.com/file/d/1UghAzYOnOOJK4pU5S7zSnDlow49OwIA3/view?usp=sharing" style="text-decoration:none;">Harsh Kumar RESUME</a>
 
 ---
 
