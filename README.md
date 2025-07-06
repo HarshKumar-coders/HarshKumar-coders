@@ -20,10 +20,10 @@
   <a href="https://linkedin.com/in/harsh-kumar-cs" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  <a href="https://github.com/23bcs11475" target="_blank">
+  <a href="https://github.com/Harshkumar-coders" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
-   <a href="https://www.leetcode.com/pushkarkumarsaini2006" target="blank">
+   <a href="https://www.leetcode.com/23bcs11475cu" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="48" width="48" />
     </a>
   <a href="mailto:harshkumar0553@gmail.com">
@@ -54,23 +54,23 @@
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23bcs11475&theme=algolia&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshkumar-coders&theme=algolia&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## ✨ Featured Projects:
-### [Leet Matrices Web App](https://github.com/23bcs11475/LeetMatricesWebApp)
+### [Leet Matrices Web App](https://github.com/Harshkumar-coders/LeetMatricesWebApp)
 > Responsive web app to track LeetCode progress with live stats and charts.
 
-### [Study Sync Landing Page](https://github.com/23bcs11475/LeetMatricesWebApp)
+### [Study Sync Landing Page](https://github.com/Harshkumar-coders/LeetMatricesWebApp)
 > Responsive landing page focused on clean UI and performance.
 
 ---
 
 ## 🐍 GitHub Contribution Snake:
 <p align="center">
-  <img src="https://github.com/23bcs11475/23bcs11475/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/Harshkumar-coders/Harshkumar-coders/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
