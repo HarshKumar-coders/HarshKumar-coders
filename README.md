@@ -14,31 +14,45 @@
 ---
 
 ## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsh-kumar-cs)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/23bcs11475)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/23bcs11475cu/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:harshkumar0553@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/harsh-kumar-cs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://github.com/23bcs11475" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  </a>
+  <a href="https://leetcode.com/u/23bcs11475cu/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" height="40" />
+  </a>
+  <a href="mailto:harshkumar0553@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Skills:
-- **Languages:** C++, C#, JavaScript, MySQL
-- **Web Technologies:** HTML5, CSS3, Tailwind CSS, React.js (Hooks, JSX, State Management), ASP.NET MVC
-- **Tools:** Git, GitHub, VS Code, Visual Studio 2022
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,cpp,cs,mysql,git,github,visualstudio,vscode" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats:
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23bcs11475&show_icons=true&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=23bcs11475&theme=dark)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23bcs11475&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=23bcs11475&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=23bcs11475&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23bcs11475&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=23bcs11475&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=23bcs11475&theme=algolia&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -52,7 +66,9 @@
 ---
 
 ## 🐍 GitHub Contribution Snake:
-![GitHub Snake](https://github.com/23bcs11475/23bcs11475/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/23bcs11475/23bcs11475/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 

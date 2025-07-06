@@ -17,6 +17,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
+          # Set neutral background to match GitHub README (transparent or white/light-gray)
+          palette: |
+            - name: background
+              color: '#ffffff'  # White background (neutral)
+            - name: snake
+              color: '#1f6feb'  # GitHub blue for snake (adjust as needed)
 
       - name: Push generated snake graph
         uses: crazy-max/ghaction-github-pages@v4
