@@ -36,8 +36,7 @@
 
 ## 🛠️ Skills:
 <p align="center">
- https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,cpp,cs,mysql,git,github,visualstudio,vscode
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,cpp,cs,mysql,git,github,visualstudio,vscode" />
 </p>
 
 ---
