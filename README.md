@@ -37,6 +37,7 @@
 ## 🛠️ Skills:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,cpp,cs,mysql,git,github,visualstudio,vscode" />
+  <img src="routing.png" alt="Routing" height="40" />
 </p>
 
 ---
